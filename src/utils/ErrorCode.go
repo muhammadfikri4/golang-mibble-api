@@ -1,0 +1,10 @@
+package utils
+
+var (
+	UNAUTHORIZED          = "UNAUTHORIZED"
+	BAD_REQUEST           = "BAD REQUEST"
+	INTERNAL_SERVER_ERROR = "INTERNAL SERVER ERROR"
+	NOT_FOUND             = "NOT FOUND"
+	NOT_ALLOWED           = "NOT ALLOWED"
+	FORBIDDEN             = "FORBIDDEN"
+)
